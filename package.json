@@ -1,0 +1,17 @@
+{
+    "author"      : "Henri Bouvier",
+    "name"        : "node-funnel",
+    "description" : "A funnel to process requestion",
+    "version"     : "0.0.1",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/hbouvier/node-funnel.git"
+    },
+    "keywords": [
+        "funnel"
+    ],
+    "main" : "./lib/funnel.js",
+    "engines"              : {
+        "node" : ">= 0.6.0"
+    }
+}
